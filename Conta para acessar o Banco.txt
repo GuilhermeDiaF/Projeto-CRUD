@@ -1,5 +1,0 @@
-Conta para acessar o Banco de dados
-
--Usuario:gui
-
--Senha:gui
