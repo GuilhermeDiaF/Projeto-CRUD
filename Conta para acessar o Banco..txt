@@ -1,0 +1,8 @@
+
+ Conta para acessar o Banco de dados
+
+ -Usuario:gui
+ -Senha:gui
+
+
+ Tarefa feita com: Gustavo de Oliveira Tomaz
